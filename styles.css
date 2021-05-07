@@ -42,6 +42,7 @@ button:hover {
 
 #deg {
   padding-top: 10px;
+  margin-bottom: 0px;
 }
 
 #output {
@@ -56,9 +57,21 @@ button:hover {
 
 ul {
   list-style-type: none;
-  font-weight: lighter;
-  font-size: 8;
+  font-weight: normal;
+  font-size: 12;
   position: relative;
   text-align: center;
   padding-right: 30px;
+}
+
+li {
+  padding-top: 25px;
+}
+
+#list-of-options {
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 5px;
 }
